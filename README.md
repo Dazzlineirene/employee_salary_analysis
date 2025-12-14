@@ -23,11 +23,18 @@ The database contains the following tables:
 - Which job titles earn above-average salaries?
 - How does salary differ by department and job title?
 
+## Key findings
+- Highest average salary - "The Sales department had the highest average salary ($80667.605)
+- Job title that earn above average salares - "Job title that earn abover average salares are senior staff, staff and manager.
+
 ## Key Insights
 - Certain departments consistently offer higher average salaries.
 - Senior job titles earn significantly more than entry-level roles.
 - Salary variation is more influenced by job title than department.
 - A small number of employees earn disproportionately high salaries.
+
+## Key Insights 
+ The analysis utilized multi table JOINS, agrregate function and subuert with the HAVING clause to compare the average salary against the job title.
 
 ## Conclusion
 This project demonstrates my ability to use SQL to analyze real-world employee data, apply aggregations and filters, and extract meaningful business insights.
@@ -35,3 +42,4 @@ This project demonstrates my ability to use SQL to analyze real-world employee d
 ## Next Steps
 - Visualize insights using Python (Pandas & Matplotlib)
 - Perform salary trend analysis over time
+
